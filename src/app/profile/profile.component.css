@@ -1,0 +1,14 @@
+.pro-head{
+	font-size:16px;
+}
+.head-image{
+  background-image: url('http://localhost:4200/assets/img/component.png');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  padding:50px 0px;
+  width:100%;
+  text-align:center;
+  color:#fff;
+  font-size:25px;
+}
